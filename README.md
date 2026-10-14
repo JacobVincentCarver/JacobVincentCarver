@@ -94,3 +94,4 @@ Aspiring IT professional looking to learn and grow in his personal IT career. I 
 <div align="center">
 <sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
 </div>
+[Net I Cert 8.2026 176.pdf](https://github.com/user-attachments/files/33453595/Net.I.Cert.8.2026.176.pdf)
